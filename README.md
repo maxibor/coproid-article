@@ -2,7 +2,9 @@
 
 Analysis scripts for coproID article.
 
-The notebooks used to generate the figures are listed below.
+The notebooks used to generate the figures are listed below.  
+Use the [conda environment file](environment.yaml) to reproduce the runtime environment:  
+`conda env create -f environment.yaml`
 
 
 ## Figures
