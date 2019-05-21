@@ -18,6 +18,7 @@ dependencies:
   - decorator=4.4.0=py36_1
   - defusedxml=0.6.0=py_0
   - descartes=1.1.0=py_3
+  - dill=0.2.9=py36_0
   - entrypoints=0.3=py36_0
   - expat=2.2.6=he6710b0_0
   - fontconfig=2.13.0=h9420a91_0
