@@ -11,9 +11,9 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
 
 - [Figure 1](figures/figure1): Pipeline overview  
 - [Figure 2](figures/figure2): Host DNA percentage
-    - **A**: Human westernized vs Non-Westernized
-    - **B**: Dog
-- [Figure 3](): Modern population t-SNE embedding
+    - **A**: Human westernized vs Non-Westernized vs Dog
+    ![](figures/figure2/results/figure2.png)
+- [Figure 3](figures/figure3): Modern population t-SNE embedding
     - **A**: Training set
     - **B**: Training set + test set
 - [Figure 4](): Archaeological samples 
