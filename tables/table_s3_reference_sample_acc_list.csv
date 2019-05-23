@@ -1,433 +1,433 @@
-﻿Sample;Study
-SRR042182 ;Human Microbiome Project
-SRR059354 ;Human Microbiome Project
-SRR059388 ;Human Microbiome Project
-SRR059395 ;Human Microbiome Project
-SRR059440 ;Human Microbiome Project
-SRR061140 ;Human Microbiome Project
-SRR061154 ;Human Microbiome Project
-SRR061236 ;Human Microbiome Project
-SRR061254 ;Human Microbiome Project
-SRR061456 ;Human Microbiome Project
-SRR061499 ;Human Microbiome Project
-SRR061556 ;Human Microbiome Project
-SRR062324 ;Human Microbiome Project
-SRR062375 ;Human Microbiome Project
-SRR062388 ;Human Microbiome Project
-SRR062447 ;Human Microbiome Project
-SRR062457 ;Human Microbiome Project
-SRR063469 ;Human Microbiome Project
-SRR063471 ;Human Microbiome Project
-SRR1175001 ;Human Microbiome Project
-SRR1175003 ;Human Microbiome Project
-SRR1175007 ;Human Microbiome Project
-SRR1175013 ;Human Microbiome Project
-SRR1179027 ;Human Microbiome Project
-SRR1179031 ;Human Microbiome Project
-SRR1179033 ;Human Microbiome Project
-SRR1179037 ;Human Microbiome Project
-SRR1179043 ;Human Microbiome Project
-SRR1179046 ;Human Microbiome Project
-SRR1179049 ;Human Microbiome Project
-SRR1179053 ;Human Microbiome Project
-SRR346691 ;Human Microbiome Project
-SRR642021 ;Human Microbiome Project
-SRR642022 ;Human Microbiome Project
-SRR646438 ;Human Microbiome Project
-SRR646449 ;Human Microbiome Project
-SRR1646027;Yanomami
-SRR1646028;Yanomami
-SRR1646037;Yanomami
-SRR1761664;Tunapuco
-SRR1761665;Tunapuco
-SRR1761666;Tunapuco
-SRR1761667;Tunapuco
-SRR1761668;Tunapuco
-SRR1761669;Tunapuco
-SRR1761670;Tunapuco
-SRR1761671;Tunapuco
-SRR1761672;Tunapuco
-SRR1761673;Tunapuco
-SRR1761674;Tunapuco
-SRR1761675;Tunapuco
-SRR1761698;Matses
-SRR1761699;Matses
-SRR1761700;Matses
-SRR1761701;Matses
-SRR1761702;Matses
-SRR1761703;Matses
-SRR1761704;Matses
-SRR1761705;Matses
-SRR1761706;Matses
-SRR1761707;Matses
-SRR1761708;Matses
-SRR1761709;Matses
-SRR1761710;Matses
-SRR1761711;Matses
-SRR1761712;Matses
-SRR1761713;Matses
-SRR1761714;Matses
-SRR1761715;Matses
-SRR1761716;Matses
-SRR1761717;Matses
-SRR1761718;Matses
-SRR1761719;Matses
-SRR1761720;Matses
-SRR1761721;Matses
-SRR1927149;Hadza
-SRR1929408;Hadza
-SRR1929484;Hadza
-SRR1929485;Hadza
-SRR1929563;Hadza
-SRR1929574;Hadza
-SRR1930121;Hadza
-SRR1930122;Hadza
-SRR1930123;Hadza
-SRR1930128;Hadza
-SRR1930132;Hadza
-SRR1930133;Hadza
-SRR1930134;Hadza
-SRR1930136;Hadza
-SRR1930138;Hadza
-SRR1930140;Hadza
-SRR1930141;Hadza
-SRR1930142;Hadza
-SRR1930143;Hadza
-SRR1930144;Hadza
-SRR1930145;Hadza
-SRR1930149;Hadza
-SRR1930176;Hadza
-SRR1930177;Hadza
-SRR1930179;Hadza
-SRR1930187;Hadza
-SRR1930244;Hadza
-SRR1930247;Hadza
-SRR1930248;Hadza
-SRR1930250;Hadza
-SRR1930251;Hadza
-SRR1930253;Hadza
-SRR1930255;Hadza
-SRR1930777;Hadza
-SRR1931170;Hadza
-SRR1931173;Hadza
-SRR1931177;Hadza
-SRR1931178;Hadza
-SRR2187423;Fiji Gut microbiome
-SRR2187575;Fiji Gut microbiome
-SRR2187582;Fiji Gut microbiome
-SRR2188726;Fiji Gut microbiome
-SRR2188983;Fiji Gut microbiome
-SRR2188985;Fiji Gut microbiome
-SRR2189052;Fiji Gut microbiome
-SRR2193437;Fiji Gut microbiome
-SRR2193552;Fiji Gut microbiome
-SRR2195742;Fiji Gut microbiome
-SRR2195842;Fiji Gut microbiome
-SRR2195882;Fiji Gut microbiome
-SRR2199461;Fiji Gut microbiome
-SRR2199674;Fiji Gut microbiome
-SRR2228216;Fiji Gut microbiome
-SRR2228771;Fiji Gut microbiome
-SRR2244854;Fiji Gut microbiome
-SRR2246384;Fiji Gut microbiome
-SRR2249439;Fiji Gut microbiome
-SRR2251641;Fiji Gut microbiome
-SRR5898921;Indian Microbiome
-SRR5898923 ;Indian Microbiome
-SRR5898924;Indian Microbiome
-SRR5898928;Indian Microbiome
-SRR5898929;Indian Microbiome
-SRR5898940 ;Indian Microbiome
-SRR5898944;Indian Microbiome
-SRR5898947;Indian Microbiome
-SRR5898948;Indian Microbiome
-SRR5898956;Indian Microbiome
-SRR5898969;Indian Microbiome
-SRR5898971;Indian Microbiome
-SRR5898978;Indian Microbiome
-SRR5898984 ;Indian Microbiome
-SRR5898992;Indian Microbiome
-SRR5898994;Indian Microbiome
-SRR5899002;Indian Microbiome
-SRR5899009;Indian Microbiome
-SRR5899013;Indian Microbiome
-SRR7658579;Madagascar
-SRR7658580;Madagascar
-SRR7658581;Madagascar
-SRR7658582;Madagascar
-SRR7658583;Madagascar
-SRR7658584;Madagascar
-SRR7658585;Madagascar
-SRR7658586;Madagascar
-SRR7658587;Madagascar
-SRR7658588;Madagascar
-SRR7658589;Madagascar
-SRR7658590;Madagascar
-SRR7658591;Madagascar
-SRR7658592;Madagascar
-SRR7658593;Madagascar
-SRR7658594;Madagascar
-SRR7658595;Madagascar
-SRR7658597;Madagascar
-SRR7658598;Madagascar
-SRR7658599;Madagascar
-SRR7658600;Madagascar
-SRR7658601;Madagascar
-SRR7658602;Madagascar
-SRR7658603;Madagascar
-SRR7658604;Madagascar
-SRR7658605;Madagascar
-SRR7658606;Madagascar
-SRR7658607;Madagascar
-SRR7658608;Madagascar
-SRR7658609;Madagascar
-SRR7658610;Madagascar
-SRR7658611;Madagascar
-SRR7658612;Madagascar
-SRR7658613;Madagascar
-SRR7658614;Madagascar
-SRR7658615;Madagascar
-SRR7658616;Madagascar
-SRR7658617;Madagascar
-SRR7658618;Madagascar
-SRR7658619;Madagascar
-SRR7658620;Madagascar
-SRR7658621;Madagascar
-SRR7658622;Madagascar
-SRR7658623;Madagascar
-SRR7658624;Madagascar
-SRR7658625;Madagascar
-SRR7658626;Madagascar
-SRR7658627;Madagascar
-SRR7658628;Madagascar
-SRR7658629;Madagascar
-SRR7658630;Madagascar
-SRR7658631;Madagascar
-SRR7658632;Madagascar
-SRR7658633;Madagascar
-SRR7658634;Madagascar
-SRR7658635;Madagascar
-SRR7658636;Madagascar
-SRR7658637;Madagascar
-SRR7658638;Madagascar
-SRR7658639;Madagascar
-SRR7658640;Madagascar
-SRR7658641;Madagascar
-SRR7658642;Madagascar
-SRR7658643;Madagascar
-SRR7658644;Madagascar
-SRR7658645;Madagascar
-SRR7658647;Madagascar
-SRR7658648;Madagascar
-SRR7658649;Madagascar
-SRR7658650;Madagascar
-SRR7658651;Madagascar
-SRR7658652;Madagascar
-SRR7658653;Madagascar
-SRR7658654;Madagascar
-SRR7658655;Madagascar
-SRR7658656;Madagascar
-SRR7658657;Madagascar
-SRR7658658;Madagascar
-SRR7658659;Madagascar
-SRR7658660;Madagascar
-SRR7658661;Madagascar
-SRR7658662;Madagascar
-SRR7658663;Madagascar
-SRR7658664;Madagascar
-SRR7658665;Madagascar
-SRR7658666;Madagascar
-SRR7658667;Madagascar
-SRR7658668;Madagascar
-SRR7658669;Madagascar
-SRR7658670;Madagascar
-SRR7658671;Madagascar
-SRR7658672;Madagascar
-SRR7658673;Madagascar
-SRR7658674;Madagascar
-SRR7658675;Madagascar
-SRR7658676;Madagascar
-SRR7658677;Madagascar
-SRR7658678;Madagascar
-SRR7658679;Madagascar
-SRR7658680;Madagascar
-SRR7658681;Madagascar
-SRR7658682;Madagascar
-SRR7658683;Madagascar
-SRR7658684;Madagascar
-SRR7658685;Madagascar
-SRR7658686;Madagascar
-SRR7658687;Madagascar
-SRR7658688;Madagascar
-SRR7658689;Madagascar
-SRR7658690;Madagascar
-ERR2402780 ;Canis familiaris
-ERR1916139 ;Canis familiaris
-ERR1915048 ;Canis familiaris
-ERR1914553 ;Canis familiaris
-ERR1913614 ;Canis familiaris
-ERR1915578 ;Canis familiaris
-ERR1915612 ;Canis familiaris
-ERR2402795 ;Canis familiaris
-ERR1914224 ;Canis familiaris
-ERR1914439 ;Canis familiaris
-ERR1916229 ;Canis familiaris
-ERR1916299 ;Canis familiaris
-ERR1915064 ;Canis familiaris
-ERR1913387 ;Canis familiaris
-ERR1916180 ;Canis familiaris
-ERR1914213 ;Canis familiaris
-ERR1915782 ;Canis familiaris
-ERR1915757 ;Canis familiaris
-ERR1915745 ;Canis familiaris
-ERR2402765 ;Canis familiaris
-ERR1914424 ;Canis familiaris
-ERR1915382 ;Canis familiaris
-ERR1914696 ;Canis familiaris
-ERR1914185 ;Canis familiaris
-ERR1916312 ;Canis familiaris
-ERR1915102 ;Canis familiaris
-ERR1916240 ;Canis familiaris
-ERR1913401 ;Canis familiaris
-ERR1913556 ;Canis familiaris
-ERR1913830 ;Canis familiaris
-ERR1914111 ;Canis familiaris
-ERR1915611 ;Canis familiaris
-ERR2402760 ;Canis familiaris
-ERR1913948 ;Canis familiaris
-ERR1916170 ;Canis familiaris
-ERR1914997 ;Canis familiaris
-ERR1913372 ;Canis familiaris
-ERR1915012 ;Canis familiaris
-ERR1914307 ;Canis familiaris
-ERR1915410 ;Canis familiaris
-ERR1914292 ;Canis familiaris
-ERR1913950 ;Canis familiaris
-ERR1915140 ;Canis familiaris
-ERR1914441 ;Canis familiaris
-ERR2402772 ;Canis familiaris
-ERR1915197 ;Canis familiaris
-ERR1915293 ;Canis familiaris
-ERR1915590 ;Canis familiaris
-ERR1913963 ;Canis familiaris
-ERR1915367 ;Canis familiaris
-ERR1915453 ;Canis familiaris
-ERR1914605 ;Canis familiaris
-ERR1913829 ;Canis familiaris
-ERR1914208 ;Canis familiaris
-ERR1915563 ;Canis familiaris
-ERR1915529 ;Canis familiaris
-ERR1915186 ;Canis familiaris
-ERR1913780 ;Canis familiaris
-ERR1913389 ;Canis familiaris
-ERR1914041 ;Canis familiaris
-ERR1916189 ;Canis familiaris
-ERR1914082 ;Canis familiaris
-ERR1914107 ;Canis familiaris
-ERR1915100 ;Canis familiaris
-ERR1915317 ;Canis familiaris
-ERR1914085 ;Canis familiaris
-ERR1915103 ;Canis familiaris
-ERR1915582 ;Canis familiaris
-ERR1914207 ;Canis familiaris
-ERR1913472 ;Canis familiaris
-ERR1916042 ;Canis familiaris
-ERR1913527 ;Canis familiaris
-ERR1915380 ;Canis familiaris
-ERR1913847 ;Canis familiaris
-ERR1916193 ;Canis familiaris
-ERR1915141 ;Canis familiaris
-ERR1913608 ;Canis familiaris
-ERR1914987 ;Canis familiaris
-ERR1915022 ;Canis familiaris
-ERR1915571 ;Canis familiaris
-ERR1915376 ;Canis familiaris
-ERR1915420 ;Canis familiaris
-ERR1916078 ;Canis familiaris
-ERR1914040 ;Canis familiaris
-ERR1914985 ;Canis familiaris
-ERR1915363 ;Canis familiaris
-ERR1916218 ;Canis familiaris
-ERR1915499 ;Canis familiaris
-ERR1916302 ;Canis familiaris
-ERR1915971 ;Canis familiaris
-ERR1913391 ;Canis familiaris
-ERR1915610 ;Canis familiaris
-ERR1915253 ;Canis familiaris
-ERR1914445 ;Canis familiaris
-ERR1915455 ;Canis familiaris
-ERR1913555 ;Canis familiaris
-ERR1914944 ;Canis familiaris
-ERR1913675 ;Canis familiaris
-ERR1915320 ;Canis familiaris
-ERR1915558 ;Canis familiaris
-ERR1915838 ;Canis familiaris
-ERR1913953 ;Canis familiaris
-ERR1914611 ;Canis familiaris
-ERR1915231 ;Canis familiaris
-ERR1915539 ;Canis familiaris
-ERR1915117 ;Canis familiaris
-ERR1913805 ;Canis familiaris
-ERR1914320 ;Canis familiaris
-ERR1916166 ;Canis familiaris
-ERR1913947 ;Canis familiaris
-ERR1914667 ;Canis familiaris
-ERR2402762 ;Canis familiaris
-ERR1914430 ;Canis familiaris
-ERR1916182 ;Canis familiaris
-ERR1913944 ;Canis familiaris
-ERR1915816 ;Canis familiaris
-ERR1915229 ;Canis familiaris
-ERR1913815 ;Canis familiaris
-ERR1914932 ;Canis familiaris
-ERR1915438 ;Canis familiaris
-ERR1914088 ;Canis familiaris
-ERR1913971 ;Canis familiaris
-ERR1915423 ;Canis familiaris
-ERR1915826 ;Canis familiaris
-ERR1913663 ;Canis familiaris
-ERR1916187 ;Canis familiaris
-ERR1913400 ;Canis familiaris
-ERR1916319 ;Canis familiaris
-ERR1915204 ;Canis familiaris
-ERR1914215 ;Canis familiaris
-ERR1915122 ;Canis familiaris
-ERR1913524 ;Canis familiaris
-ERR1914196 ;Canis familiaris
-ERR1915765 ;Canis familiaris
-ERR1915335 ;Canis familiaris
-ERR1914316 ;Canis familiaris
-ERR1913392 ;Canis familiaris
-ERR1914349 ;Canis familiaris
-ERR1915309 ;Canis familiaris
-ERR1914750 ;Canis familiaris
-ERR1915225 ;Canis familiaris
-ERR1914438 ;Canis familiaris
-ERR1915094 ;Canis familiaris
-ERR1915011 ;Canis familiaris
-ERR1914302 ;Canis familiaris
-ERR1914332 ;Canis familiaris
-ERR1915751 ;Canis familiaris
-ERR1916315 ;Canis familiaris
-ERR1914674 ;Canis familiaris
-ERR1913542 ;Canis familiaris
-mgm4477803_3 ;Soil
-mgm4477900_3 ;Soil
-mgm4477872_3 ;Soil
-mgm4477805_3 ;Soil
-mgm4477901_3 ;Soil
-mgm4477876_3 ;Soil
-mgm4477875_3 ;Soil
-mgm4477902_3 ;Soil
-mgm4477899_3 ;Soil
-mgm4477877_3 ;Soil
-mgm4477903_3 ;Soil
-mgm4477807_3 ;Soil
-mgm4477874_3 ;Soil
-mgm4477904_3 ;Soil
-mgm4477804_3 ;Soil
-mgm4477873_3 ;Soil
-ERR1939166;Soil
-ERR1939165;Soil
-SRR3578625;Soil
-SRR3578645;Soil
+Sample;Study;Type
+SRR042182 ;Human Microbiome Project;Westernized human
+SRR059354 ;Human Microbiome Project;Westernized human
+SRR059388 ;Human Microbiome Project;Westernized human
+SRR059395 ;Human Microbiome Project;Westernized human
+SRR059440 ;Human Microbiome Project;Westernized human
+SRR061140 ;Human Microbiome Project;Westernized human
+SRR061154 ;Human Microbiome Project;Westernized human
+SRR061236 ;Human Microbiome Project;Westernized human
+SRR061254 ;Human Microbiome Project;Westernized human
+SRR061456 ;Human Microbiome Project;Westernized human
+SRR061499 ;Human Microbiome Project;Westernized human
+SRR061556 ;Human Microbiome Project;Westernized human
+SRR062324 ;Human Microbiome Project;Westernized human
+SRR062375 ;Human Microbiome Project;Westernized human
+SRR062388 ;Human Microbiome Project;Westernized human
+SRR062447 ;Human Microbiome Project;Westernized human
+SRR062457 ;Human Microbiome Project;Westernized human
+SRR063469 ;Human Microbiome Project;Westernized human
+SRR063471 ;Human Microbiome Project;Westernized human
+SRR1175001 ;Human Microbiome Project;Westernized human
+SRR1175003 ;Human Microbiome Project;Westernized human
+SRR1175007 ;Human Microbiome Project;Westernized human
+SRR1175013 ;Human Microbiome Project;Westernized human
+SRR1179027 ;Human Microbiome Project;Westernized human
+SRR1179031 ;Human Microbiome Project;Westernized human
+SRR1179033 ;Human Microbiome Project;Westernized human
+SRR1179037 ;Human Microbiome Project;Westernized human
+SRR1179043 ;Human Microbiome Project;Westernized human
+SRR1179046 ;Human Microbiome Project;Westernized human
+SRR1179049 ;Human Microbiome Project;Westernized human
+SRR1179053 ;Human Microbiome Project;Westernized human
+SRR346691 ;Human Microbiome Project;Westernized human
+SRR642021 ;Human Microbiome Project;Westernized human
+SRR642022 ;Human Microbiome Project;Westernized human
+SRR646438 ;Human Microbiome Project;Westernized human
+SRR646449 ;Human Microbiome Project;Westernized human
+SRR1646027;Yanomami;Non Westernized Human
+SRR1646028;Yanomami;Non Westernized Human
+SRR1646037;Yanomami;Non Westernized Human
+SRR1761664;Tunapuco;Non Westernized Human
+SRR1761665;Tunapuco;Non Westernized Human
+SRR1761666;Tunapuco;Non Westernized Human
+SRR1761667;Tunapuco;Non Westernized Human
+SRR1761668;Tunapuco;Non Westernized Human
+SRR1761669;Tunapuco;Non Westernized Human
+SRR1761670;Tunapuco;Non Westernized Human
+SRR1761671;Tunapuco;Non Westernized Human
+SRR1761672;Tunapuco;Non Westernized Human
+SRR1761673;Tunapuco;Non Westernized Human
+SRR1761674;Tunapuco;Non Westernized Human
+SRR1761675;Tunapuco;Non Westernized Human
+SRR1761698;Matses;Non Westernized Human
+SRR1761699;Matses;Non Westernized Human
+SRR1761700;Matses;Non Westernized Human
+SRR1761701;Matses;Non Westernized Human
+SRR1761702;Matses;Non Westernized Human
+SRR1761703;Matses;Non Westernized Human
+SRR1761704;Matses;Non Westernized Human
+SRR1761705;Matses;Non Westernized Human
+SRR1761706;Matses;Non Westernized Human
+SRR1761707;Matses;Non Westernized Human
+SRR1761708;Matses;Non Westernized Human
+SRR1761709;Matses;Non Westernized Human
+SRR1761710;Matses;Non Westernized Human
+SRR1761711;Matses;Non Westernized Human
+SRR1761712;Matses;Non Westernized Human
+SRR1761713;Matses;Non Westernized Human
+SRR1761714;Matses;Non Westernized Human
+SRR1761715;Matses;Non Westernized Human
+SRR1761716;Matses;Non Westernized Human
+SRR1761717;Matses;Non Westernized Human
+SRR1761718;Matses;Non Westernized Human
+SRR1761719;Matses;Non Westernized Human
+SRR1761720;Matses;Non Westernized Human
+SRR1761721;Matses;Non Westernized Human
+SRR1927149;Hadza;Non Westernized Human
+SRR1929408;Hadza;Non Westernized Human
+SRR1929484;Hadza;Non Westernized Human
+SRR1929485;Hadza;Non Westernized Human
+SRR1929563;Hadza;Non Westernized Human
+SRR1929574;Hadza;Non Westernized Human
+SRR1930121;Hadza;Non Westernized Human
+SRR1930122;Hadza;Non Westernized Human
+SRR1930123;Hadza;Non Westernized Human
+SRR1930128;Hadza;Non Westernized Human
+SRR1930132;Hadza;Non Westernized Human
+SRR1930133;Hadza;Non Westernized Human
+SRR1930134;Hadza;Non Westernized Human
+SRR1930136;Hadza;Non Westernized Human
+SRR1930138;Hadza;Non Westernized Human
+SRR1930140;Hadza;Non Westernized Human
+SRR1930141;Hadza;Non Westernized Human
+SRR1930142;Hadza;Non Westernized Human
+SRR1930143;Hadza;Non Westernized Human
+SRR1930144;Hadza;Non Westernized Human
+SRR1930145;Hadza;Non Westernized Human
+SRR1930149;Hadza;Non Westernized Human
+SRR1930176;Hadza;Non Westernized Human
+SRR1930177;Hadza;Non Westernized Human
+SRR1930179;Hadza;Non Westernized Human
+SRR1930187;Hadza;Non Westernized Human
+SRR1930244;Hadza;Non Westernized Human
+SRR1930247;Hadza;Non Westernized Human
+SRR1930248;Hadza;Non Westernized Human
+SRR1930250;Hadza;Non Westernized Human
+SRR1930251;Hadza;Non Westernized Human
+SRR1930253;Hadza;Non Westernized Human
+SRR1930255;Hadza;Non Westernized Human
+SRR1930777;Hadza;Non Westernized Human
+SRR1931170;Hadza;Non Westernized Human
+SRR1931173;Hadza;Non Westernized Human
+SRR1931177;Hadza;Non Westernized Human
+SRR1931178;Hadza;Non Westernized Human
+SRR2187423;Fiji Gut microbiome;Westernized human
+SRR2187575;Fiji Gut microbiome;Westernized human
+SRR2187582;Fiji Gut microbiome;Westernized human
+SRR2188726;Fiji Gut microbiome;Westernized human
+SRR2188983;Fiji Gut microbiome;Westernized human
+SRR2188985;Fiji Gut microbiome;Westernized human
+SRR2189052;Fiji Gut microbiome;Westernized human
+SRR2193437;Fiji Gut microbiome;Westernized human
+SRR2193552;Fiji Gut microbiome;Westernized human
+SRR2195742;Fiji Gut microbiome;Westernized human
+SRR2195842;Fiji Gut microbiome;Westernized human
+SRR2195882;Fiji Gut microbiome;Westernized human
+SRR2199461;Fiji Gut microbiome;Westernized human
+SRR2199674;Fiji Gut microbiome;Westernized human
+SRR2228216;Fiji Gut microbiome;Westernized human
+SRR2228771;Fiji Gut microbiome;Westernized human
+SRR2244854;Fiji Gut microbiome;Westernized human
+SRR2246384;Fiji Gut microbiome;Westernized human
+SRR2249439;Fiji Gut microbiome;Westernized human
+SRR2251641;Fiji Gut microbiome;Westernized human
+SRR5898921;Indian Microbiome;Westernized human
+SRR5898923 ;Indian Microbiome;Westernized human
+SRR5898924;Indian Microbiome;Westernized human
+SRR5898928;Indian Microbiome;Westernized human
+SRR5898929;Indian Microbiome;Westernized human
+SRR5898940 ;Indian Microbiome;Westernized human
+SRR5898944;Indian Microbiome;Westernized human
+SRR5898947;Indian Microbiome;Westernized human
+SRR5898948;Indian Microbiome;Westernized human
+SRR5898956;Indian Microbiome;Westernized human
+SRR5898969;Indian Microbiome;Westernized human
+SRR5898971;Indian Microbiome;Westernized human
+SRR5898978;Indian Microbiome;Westernized human
+SRR5898984 ;Indian Microbiome;Westernized human
+SRR5898992;Indian Microbiome;Westernized human
+SRR5898994;Indian Microbiome;Westernized human
+SRR5899002;Indian Microbiome;Westernized human
+SRR5899009;Indian Microbiome;Westernized human
+SRR5899013;Indian Microbiome;Westernized human
+SRR7658579;Madagascar;Non Westernized Human
+SRR7658580;Madagascar;Non Westernized Human
+SRR7658581;Madagascar;Non Westernized Human
+SRR7658582;Madagascar;Non Westernized Human
+SRR7658583;Madagascar;Non Westernized Human
+SRR7658584;Madagascar;Non Westernized Human
+SRR7658585;Madagascar;Non Westernized Human
+SRR7658586;Madagascar;Non Westernized Human
+SRR7658587;Madagascar;Non Westernized Human
+SRR7658588;Madagascar;Non Westernized Human
+SRR7658589;Madagascar;Non Westernized Human
+SRR7658590;Madagascar;Non Westernized Human
+SRR7658591;Madagascar;Non Westernized Human
+SRR7658592;Madagascar;Non Westernized Human
+SRR7658593;Madagascar;Non Westernized Human
+SRR7658594;Madagascar;Non Westernized Human
+SRR7658595;Madagascar;Non Westernized Human
+SRR7658597;Madagascar;Non Westernized Human
+SRR7658598;Madagascar;Non Westernized Human
+SRR7658599;Madagascar;Non Westernized Human
+SRR7658600;Madagascar;Non Westernized Human
+SRR7658601;Madagascar;Non Westernized Human
+SRR7658602;Madagascar;Non Westernized Human
+SRR7658603;Madagascar;Non Westernized Human
+SRR7658604;Madagascar;Non Westernized Human
+SRR7658605;Madagascar;Non Westernized Human
+SRR7658606;Madagascar;Non Westernized Human
+SRR7658607;Madagascar;Non Westernized Human
+SRR7658608;Madagascar;Non Westernized Human
+SRR7658609;Madagascar;Non Westernized Human
+SRR7658610;Madagascar;Non Westernized Human
+SRR7658611;Madagascar;Non Westernized Human
+SRR7658612;Madagascar;Non Westernized Human
+SRR7658613;Madagascar;Non Westernized Human
+SRR7658614;Madagascar;Non Westernized Human
+SRR7658615;Madagascar;Non Westernized Human
+SRR7658616;Madagascar;Non Westernized Human
+SRR7658617;Madagascar;Non Westernized Human
+SRR7658618;Madagascar;Non Westernized Human
+SRR7658619;Madagascar;Non Westernized Human
+SRR7658620;Madagascar;Non Westernized Human
+SRR7658621;Madagascar;Non Westernized Human
+SRR7658622;Madagascar;Non Westernized Human
+SRR7658623;Madagascar;Non Westernized Human
+SRR7658624;Madagascar;Non Westernized Human
+SRR7658625;Madagascar;Non Westernized Human
+SRR7658626;Madagascar;Non Westernized Human
+SRR7658627;Madagascar;Non Westernized Human
+SRR7658628;Madagascar;Non Westernized Human
+SRR7658629;Madagascar;Non Westernized Human
+SRR7658630;Madagascar;Non Westernized Human
+SRR7658631;Madagascar;Non Westernized Human
+SRR7658632;Madagascar;Non Westernized Human
+SRR7658633;Madagascar;Non Westernized Human
+SRR7658634;Madagascar;Non Westernized Human
+SRR7658635;Madagascar;Non Westernized Human
+SRR7658636;Madagascar;Non Westernized Human
+SRR7658637;Madagascar;Non Westernized Human
+SRR7658638;Madagascar;Non Westernized Human
+SRR7658639;Madagascar;Non Westernized Human
+SRR7658640;Madagascar;Non Westernized Human
+SRR7658641;Madagascar;Non Westernized Human
+SRR7658642;Madagascar;Non Westernized Human
+SRR7658643;Madagascar;Non Westernized Human
+SRR7658644;Madagascar;Non Westernized Human
+SRR7658645;Madagascar;Non Westernized Human
+SRR7658647;Madagascar;Non Westernized Human
+SRR7658648;Madagascar;Non Westernized Human
+SRR7658649;Madagascar;Non Westernized Human
+SRR7658650;Madagascar;Non Westernized Human
+SRR7658651;Madagascar;Non Westernized Human
+SRR7658652;Madagascar;Non Westernized Human
+SRR7658653;Madagascar;Non Westernized Human
+SRR7658654;Madagascar;Non Westernized Human
+SRR7658655;Madagascar;Non Westernized Human
+SRR7658656;Madagascar;Non Westernized Human
+SRR7658657;Madagascar;Non Westernized Human
+SRR7658658;Madagascar;Non Westernized Human
+SRR7658659;Madagascar;Non Westernized Human
+SRR7658660;Madagascar;Non Westernized Human
+SRR7658661;Madagascar;Non Westernized Human
+SRR7658662;Madagascar;Non Westernized Human
+SRR7658663;Madagascar;Non Westernized Human
+SRR7658664;Madagascar;Non Westernized Human
+SRR7658665;Madagascar;Non Westernized Human
+SRR7658666;Madagascar;Non Westernized Human
+SRR7658667;Madagascar;Non Westernized Human
+SRR7658668;Madagascar;Non Westernized Human
+SRR7658669;Madagascar;Non Westernized Human
+SRR7658670;Madagascar;Non Westernized Human
+SRR7658671;Madagascar;Non Westernized Human
+SRR7658672;Madagascar;Non Westernized Human
+SRR7658673;Madagascar;Non Westernized Human
+SRR7658674;Madagascar;Non Westernized Human
+SRR7658675;Madagascar;Non Westernized Human
+SRR7658676;Madagascar;Non Westernized Human
+SRR7658677;Madagascar;Non Westernized Human
+SRR7658678;Madagascar;Non Westernized Human
+SRR7658679;Madagascar;Non Westernized Human
+SRR7658680;Madagascar;Non Westernized Human
+SRR7658681;Madagascar;Non Westernized Human
+SRR7658682;Madagascar;Non Westernized Human
+SRR7658683;Madagascar;Non Westernized Human
+SRR7658684;Madagascar;Non Westernized Human
+SRR7658685;Madagascar;Non Westernized Human
+SRR7658686;Madagascar;Non Westernized Human
+SRR7658687;Madagascar;Non Westernized Human
+SRR7658688;Madagascar;Non Westernized Human
+SRR7658689;Madagascar;Non Westernized Human
+SRR7658690;Madagascar;Non Westernized Human
+ERR2402780 ;Canis familiaris;Canis familiaris
+ERR1916139 ;Canis familiaris;Canis familiaris
+ERR1915048 ;Canis familiaris;Canis familiaris
+ERR1914553 ;Canis familiaris;Canis familiaris
+ERR1913614 ;Canis familiaris;Canis familiaris
+ERR1915578 ;Canis familiaris;Canis familiaris
+ERR1915612 ;Canis familiaris;Canis familiaris
+ERR2402795 ;Canis familiaris;Canis familiaris
+ERR1914224 ;Canis familiaris;Canis familiaris
+ERR1914439 ;Canis familiaris;Canis familiaris
+ERR1916229 ;Canis familiaris;Canis familiaris
+ERR1916299 ;Canis familiaris;Canis familiaris
+ERR1915064 ;Canis familiaris;Canis familiaris
+ERR1913387 ;Canis familiaris;Canis familiaris
+ERR1916180 ;Canis familiaris;Canis familiaris
+ERR1914213 ;Canis familiaris;Canis familiaris
+ERR1915782 ;Canis familiaris;Canis familiaris
+ERR1915757 ;Canis familiaris;Canis familiaris
+ERR1915745 ;Canis familiaris;Canis familiaris
+ERR2402765 ;Canis familiaris;Canis familiaris
+ERR1914424 ;Canis familiaris;Canis familiaris
+ERR1915382 ;Canis familiaris;Canis familiaris
+ERR1914696 ;Canis familiaris;Canis familiaris
+ERR1914185 ;Canis familiaris;Canis familiaris
+ERR1916312 ;Canis familiaris;Canis familiaris
+ERR1915102 ;Canis familiaris;Canis familiaris
+ERR1916240 ;Canis familiaris;Canis familiaris
+ERR1913401 ;Canis familiaris;Canis familiaris
+ERR1913556 ;Canis familiaris;Canis familiaris
+ERR1913830 ;Canis familiaris;Canis familiaris
+ERR1914111 ;Canis familiaris;Canis familiaris
+ERR1915611 ;Canis familiaris;Canis familiaris
+ERR2402760 ;Canis familiaris;Canis familiaris
+ERR1913948 ;Canis familiaris;Canis familiaris
+ERR1916170 ;Canis familiaris;Canis familiaris
+ERR1914997 ;Canis familiaris;Canis familiaris
+ERR1913372 ;Canis familiaris;Canis familiaris
+ERR1915012 ;Canis familiaris;Canis familiaris
+ERR1914307 ;Canis familiaris;Canis familiaris
+ERR1915410 ;Canis familiaris;Canis familiaris
+ERR1914292 ;Canis familiaris;Canis familiaris
+ERR1913950 ;Canis familiaris;Canis familiaris
+ERR1915140 ;Canis familiaris;Canis familiaris
+ERR1914441 ;Canis familiaris;Canis familiaris
+ERR2402772 ;Canis familiaris;Canis familiaris
+ERR1915197 ;Canis familiaris;Canis familiaris
+ERR1915293 ;Canis familiaris;Canis familiaris
+ERR1915590 ;Canis familiaris;Canis familiaris
+ERR1913963 ;Canis familiaris;Canis familiaris
+ERR1915367 ;Canis familiaris;Canis familiaris
+ERR1915453 ;Canis familiaris;Canis familiaris
+ERR1914605 ;Canis familiaris;Canis familiaris
+ERR1913829 ;Canis familiaris;Canis familiaris
+ERR1914208 ;Canis familiaris;Canis familiaris
+ERR1915563 ;Canis familiaris;Canis familiaris
+ERR1915529 ;Canis familiaris;Canis familiaris
+ERR1915186 ;Canis familiaris;Canis familiaris
+ERR1913780 ;Canis familiaris;Canis familiaris
+ERR1913389 ;Canis familiaris;Canis familiaris
+ERR1914041 ;Canis familiaris;Canis familiaris
+ERR1916189 ;Canis familiaris;Canis familiaris
+ERR1914082 ;Canis familiaris;Canis familiaris
+ERR1914107 ;Canis familiaris;Canis familiaris
+ERR1915100 ;Canis familiaris;Canis familiaris
+ERR1915317 ;Canis familiaris;Canis familiaris
+ERR1914085 ;Canis familiaris;Canis familiaris
+ERR1915103 ;Canis familiaris;Canis familiaris
+ERR1915582 ;Canis familiaris;Canis familiaris
+ERR1914207 ;Canis familiaris;Canis familiaris
+ERR1913472 ;Canis familiaris;Canis familiaris
+ERR1916042 ;Canis familiaris;Canis familiaris
+ERR1913527 ;Canis familiaris;Canis familiaris
+ERR1915380 ;Canis familiaris;Canis familiaris
+ERR1913847 ;Canis familiaris;Canis familiaris
+ERR1916193 ;Canis familiaris;Canis familiaris
+ERR1915141 ;Canis familiaris;Canis familiaris
+ERR1913608 ;Canis familiaris;Canis familiaris
+ERR1914987 ;Canis familiaris;Canis familiaris
+ERR1915022 ;Canis familiaris;Canis familiaris
+ERR1915571 ;Canis familiaris;Canis familiaris
+ERR1915376 ;Canis familiaris;Canis familiaris
+ERR1915420 ;Canis familiaris;Canis familiaris
+ERR1916078 ;Canis familiaris;Canis familiaris
+ERR1914040 ;Canis familiaris;Canis familiaris
+ERR1914985 ;Canis familiaris;Canis familiaris
+ERR1915363 ;Canis familiaris;Canis familiaris
+ERR1916218 ;Canis familiaris;Canis familiaris
+ERR1915499 ;Canis familiaris;Canis familiaris
+ERR1916302 ;Canis familiaris;Canis familiaris
+ERR1915971 ;Canis familiaris;Canis familiaris
+ERR1913391 ;Canis familiaris;Canis familiaris
+ERR1915610 ;Canis familiaris;Canis familiaris
+ERR1915253 ;Canis familiaris;Canis familiaris
+ERR1914445 ;Canis familiaris;Canis familiaris
+ERR1915455 ;Canis familiaris;Canis familiaris
+ERR1913555 ;Canis familiaris;Canis familiaris
+ERR1914944 ;Canis familiaris;Canis familiaris
+ERR1913675 ;Canis familiaris;Canis familiaris
+ERR1915320 ;Canis familiaris;Canis familiaris
+ERR1915558 ;Canis familiaris;Canis familiaris
+ERR1915838 ;Canis familiaris;Canis familiaris
+ERR1913953 ;Canis familiaris;Canis familiaris
+ERR1914611 ;Canis familiaris;Canis familiaris
+ERR1915231 ;Canis familiaris;Canis familiaris
+ERR1915539 ;Canis familiaris;Canis familiaris
+ERR1915117 ;Canis familiaris;Canis familiaris
+ERR1913805 ;Canis familiaris;Canis familiaris
+ERR1914320 ;Canis familiaris;Canis familiaris
+ERR1916166 ;Canis familiaris;Canis familiaris
+ERR1913947 ;Canis familiaris;Canis familiaris
+ERR1914667 ;Canis familiaris;Canis familiaris
+ERR2402762 ;Canis familiaris;Canis familiaris
+ERR1914430 ;Canis familiaris;Canis familiaris
+ERR1916182 ;Canis familiaris;Canis familiaris
+ERR1913944 ;Canis familiaris;Canis familiaris
+ERR1915816 ;Canis familiaris;Canis familiaris
+ERR1915229 ;Canis familiaris;Canis familiaris
+ERR1913815 ;Canis familiaris;Canis familiaris
+ERR1914932 ;Canis familiaris;Canis familiaris
+ERR1915438 ;Canis familiaris;Canis familiaris
+ERR1914088 ;Canis familiaris;Canis familiaris
+ERR1913971 ;Canis familiaris;Canis familiaris
+ERR1915423 ;Canis familiaris;Canis familiaris
+ERR1915826 ;Canis familiaris;Canis familiaris
+ERR1913663 ;Canis familiaris;Canis familiaris
+ERR1916187 ;Canis familiaris;Canis familiaris
+ERR1913400 ;Canis familiaris;Canis familiaris
+ERR1916319 ;Canis familiaris;Canis familiaris
+ERR1915204 ;Canis familiaris;Canis familiaris
+ERR1914215 ;Canis familiaris;Canis familiaris
+ERR1915122 ;Canis familiaris;Canis familiaris
+ERR1913524 ;Canis familiaris;Canis familiaris
+ERR1914196 ;Canis familiaris;Canis familiaris
+ERR1915765 ;Canis familiaris;Canis familiaris
+ERR1915335 ;Canis familiaris;Canis familiaris
+ERR1914316 ;Canis familiaris;Canis familiaris
+ERR1913392 ;Canis familiaris;Canis familiaris
+ERR1914349 ;Canis familiaris;Canis familiaris
+ERR1915309 ;Canis familiaris;Canis familiaris
+ERR1914750 ;Canis familiaris;Canis familiaris
+ERR1915225 ;Canis familiaris;Canis familiaris
+ERR1914438 ;Canis familiaris;Canis familiaris
+ERR1915094 ;Canis familiaris;Canis familiaris
+ERR1915011 ;Canis familiaris;Canis familiaris
+ERR1914302 ;Canis familiaris;Canis familiaris
+ERR1914332 ;Canis familiaris;Canis familiaris
+ERR1915751 ;Canis familiaris;Canis familiaris
+ERR1916315 ;Canis familiaris;Canis familiaris
+ERR1914674 ;Canis familiaris;Canis familiaris
+ERR1913542 ;Canis familiaris;Canis familiaris
+mgm4477803_3 ;Soil;Soil
+mgm4477900_3 ;Soil;Soil
+mgm4477872_3 ;Soil;Soil
+mgm4477805_3 ;Soil;Soil
+mgm4477901_3 ;Soil;Soil
+mgm4477876_3 ;Soil;Soil
+mgm4477875_3 ;Soil;Soil
+mgm4477902_3 ;Soil;Soil
+mgm4477899_3 ;Soil;Soil
+mgm4477877_3 ;Soil;Soil
+mgm4477903_3 ;Soil;Soil
+mgm4477807_3 ;Soil;Soil
+mgm4477874_3 ;Soil;Soil
+mgm4477904_3 ;Soil;Soil
+mgm4477804_3 ;Soil;Soil
+mgm4477873_3 ;Soil;Soil
+ERR1939166;Soil;Soil
+ERR1939165;Soil;Soil
+SRR3578625;Soil;Soil
+SRR3578645;Soil;Soil
