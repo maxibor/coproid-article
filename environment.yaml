@@ -99,7 +99,6 @@ dependencies:
   - pexpect=4.7.0=py36_0
   - pickleshare=0.7.5=py36_0
   - pip=19.1.1=py36_0
-  - plotnine=0.5.1=py_0
   - pluggy=0.11.0=py_0
   - prometheus_client=0.6.0=py36_0
   - prompt_toolkit=2.0.9=py36_0
@@ -147,6 +146,7 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - cython==0.29.7
+    - plotnine==0.5.1+47.g840c28f
     - ptitprince==0.1.4
     - pyhamcrest==1.9.0
 prefix: /projects1/users/borry/15_miniconda3/envs/coproid_article
