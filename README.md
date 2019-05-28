@@ -16,9 +16,11 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
 - [Figure 3](figures/figure3): Modern population t-SNE embedding
     - **A**: Training set
     - **B**: Training set + test set
-- [Figure 4](): Archaeological samples 
+- [Figure 4](figures/figure4): Archaeological samples 
     - **A**: Dog vs Human endogenous DNA source classification
     - **B**: t-SNE embedding with archaelogical samples
+- [Figure 5](figures/figure5): Combining sourcepredict and Endogenous DNA 
+
 
 ## Tables
 
