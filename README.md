@@ -9,17 +9,31 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
 
 ## Figures
 
-- [Figure 1](figures/figure1): Pipeline overview  
+- [Figure 1](figures/figure1): Pipeline overview
+    ![](figures/figure1/figure1.png)
+    
 - [Figure 2](figures/figure2): Host DNA percentage
     - **A**: Human westernized vs Non-Westernized vs Dog
     ![](figures/figure2/results/figure2.png)
+    
 - [Figure 3](figures/figure3): Modern population t-SNE embedding
     - **A**: Training set
+    ![](figures/figure3/results/figure3A.png)
+    
     - **B**: Training set + test set
+    ![](figures/figure3/results/figure3B.png)
+    
 - [Figure 4](figures/figure4): Archaeological samples 
     - **A**: Dog vs Human endogenous DNA source classification
+    ![](figures/figure4/results/figure4A_version_3.png)  
+    ![](figures/figure4/results/figure4A_version_4.png)  
+    ![](figures/figure4/results/figure4A_version_5.png)  
+    
     - **B**: t-SNE embedding with archaelogical samples
-- [Figure 5](figures/figure5): Combining sourcepredict and Endogenous DNA 
+    ![](figures/figure4/results/figure4B.png)
+    
+- [Figure 5](figures/figure5): Combining sourcepredict and Endogenous DNA
+    ![](figures/figure5/results/figure5.png)
 
 
 ## Tables
