@@ -25,9 +25,8 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
     
 - [Figure 4](figures/figure4): Archaeological samples 
     - **A**: Dog vs Human endogenous DNA source classification
-    ![](figures/figure4/results/figure4A_version3.png)  
-    ![](figures/figure4/results/figure4A_version4.png)  
-    ![](figures/figure4/results/figure4A_version5.png)  
+    ![](figures/figure4/results/figure4A.png)
+    ![](figures/figure4/results/figure4A_supplementary.png)
     
     - **B**: t-SNE embedding with archaelogical samples
     ![](figures/figure4/results/figure4B.png)
