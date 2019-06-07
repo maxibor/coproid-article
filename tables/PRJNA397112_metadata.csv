@@ -1,0 +1,111 @@
+Sample;Age(Years);Age Group;Gender;Diet;Location;BMI
+HA;26;Adult;M;Omnivorous;LOC1;22.72
+HAA;27;Adult;F;Omnivorous;LOC1;21. May
+HAB;28;Adult;F;Vegetarian;LOC1;19.28
+HAC;21;Young;F;Vegetarian;LOC1;28. Dec
+HAD;27;Adult;F;Vegetarian;LOC1;23.87
+HAE;21;Young;F;Vegetarian;LOC1;19.22
+HAF;21;Young;F;Vegetarian;LOC1;28.84
+HAG;23;Young;F;Vegetarian;LOC1;22. Mar
+HAH;25;Young;F;Vegetarian;LOC1;21.26
+HAI;24;Young;M;Vegetarian;LOC1;26. Mar
+HAJ;22;Young;F;Vegetarian;LOC1;23.23
+HAK;29;Adult;F;Vegetarian;LOC1;22. Mar
+HAL;24;Young;F;Vegetarian;LOC1;23.25
+HAM;23;Young;F;Vegetarian;LOC1;19.22
+HAN;26;Adult;F;Vegetarian;LOC1;22. Mar
+HAO;26;Adult;F;Vegetarian;LOC1;20.82
+HAP;25;Young;M;Vegetarian;LOC1;21.71
+HAR;28;Adult;M;Vegetarian;LOC1;25.51
+HAT;26;Adult;M;Vegetarian;LOC1;22.65
+HB;23;Young;M;Omnivorous;LOC1;22. Feb
+HC;23;Young;M;Vegetarian;LOC1;23.52
+HCL;64;Aged;F;Omnivorous;LOC1;36.4
+HCM;62;Aged;F;Omnivorous;LOC1;22. Sep
+HCN;57;Aged;M;Omnivorous;LOC1;17. Sep
+HCO;57;Aged;F;Omnivorous;LOC1;20. Aug
+HCP;71;Aged;M;Omnivorous;LOC1;19. Feb
+HCQ;52;Aged;F;Omnivorous;LOC1;23
+HCR;62;Aged;M;Omnivorous;LOC1;20. Aug
+HCS;52;Aged;F;Omnivorous;LOC1;17. Sep
+HCT;58;Aged; M;Omnivorous;LOC1;19. Feb
+HCU;61;Aged;M;Omnivorous;LOC1;19. May
+HCV;58;Aged;F;Omnivorous;LOC1;19. Sep
+HD;29;Adult;M;Vegetarian;LOC1;20.71
+HE;22;Young;M;Vegetarian;LOC1;22.23
+HF;30;Adult;M;Vegetarian;LOC1;24.38
+HG;30;Adult;M;Omnivorous;LOC1;22.47
+HI;02. Apr;Toddler;F;Vegetarian;LOC1;11. Dec
+HJ;23;Young;M;Vegetarian;LOC1;27.88
+HK;26;Adult;F;Vegetarian;LOC1;22. Mar
+HL;29;Adult;M;Vegetarian;LOC1;23. Apr
+HM;30;Adult;M;Omnivorous;LOC1;23.38
+HN;28;Adult;M;Omnivorous;LOC1;22.58
+HO;26;Adult;M;Vegetarian;LOC1;23.78
+HP;30;Adult;M;Vegetarian;LOC1;19.36
+HQ;24;Young;F;Omnivorous;LOC1;23.14
+HR;26;Adult;M;Vegetarian;LOC1;22.22
+HS;25;Young;M;Vegetarian;LOC1;18. Mar
+HT;25;Young;F;Vegetarian;LOC1;22. Jun
+HU;28;Adult;F;Vegetarian;LOC1;21. Mar
+HV;6 Months;Toddler;F;Vegetarian;LOC1;NA
+HW;6 Months ;Toddler;F;Vegetarian;LOC1;NA
+HY;8 Months ;Toddler;F;Vegetarian;LOC1;NA
+HZ;29;Adult;F;Vegetarian;LOC1;28. Apr
+C10;7;Children;F;Omnivorous;LOC2;Dec 45
+ C13;11;Children;M;Omnivorous;LOC2;Dec 92
+ C14;12;Children;M;Omnivorous;LOC2;Dec 85
+ C15;11;Children;F;Omnivorous;LOC2;12. Jun
+ C16;16;Children;M;Omnivorous;LOC2;13.25
+ C19;9;Children;F;Omnivorous;LOC2;12. May
+C2;12;Toddler;F;Omnivorous;LOC2;13.26
+  C22;4;Children;M;Omnivorous;LOC2;11. Aug
+  C23;6;Toddler;M;Omnivorous;LOC2;12. Jan
+  C24;5;Children;F;Omnivorous;LOC2;Nov 56
+  C25;7;Children;F;Omnivorous;LOC2;11. Feb
+C3;12;Children;M;Omnivorous;LOC2;Dec 86
+C4;10;Children;F;Omnivorous;LOC2;13. Feb
+C5;6;Children;M;Omnivorous;LOC2;Dec 65
+C6;9;Toddler;M;Omnivorous;LOC2;12. Aug
+C7;5;Toddler;M;Omnivorous;LOC2;Nov 65
+C9;03. May;Children;M;Omnivorous;LOC2;11. Feb
+C18;10;Children;M;Omnivorous;LOC2;12. Aug
+HAD;50;Aged;M;Omnivorous;LOC2;22. May
+HAU;30;Adult;M;Omnivorous;LOC2;27.84
+HAV;24;Young;M;Omnivorous;LOC2;33.8
+HAX;25;Young;M;Omnivorous;LOC2;16. Apr
+HAZ;23;Young;M;Omnivorous;LOC2;21.13
+HBA;23;Young;M;Omnivorous;LOC2;25. Jan
+HBB;23;Young;M;Omnivorous;LOC2;28.82
+HBC;19;Young;M;Omnivorous;LOC2;25. Sep
+HBD;20;Young;M;Omnivorous;LOC2;17.61
+HBE;30;Adult;F;Omnivorous;LOC2;23. Mar
+HBF;30;Adult;F;Omnivorous;LOC2;17. Aug
+HBG;29;Adult;F;Omnivorous;LOC2;26.63
+HBH;26;Adult;F;Omnivorous;LOC2;23.92
+HBI;28;Adult;F;Omnivorous;LOC2;24.32
+HBJ;27;Adult;F;Omnivorous;LOC2;20.61
+HBK;21;Young;F;Omnivorous;LOC2;21. May
+HBL;30;Adult;F;Omnivorous;LOC2;16.56
+HBM;23;Young;F;Omnivorous;LOC2;17.74
+HBR;50;Aged;F;Omnivorous;LOC2;27. Jan
+HBV;55;Aged;F;Omnivorous;LOC2;24.97
+HBW;55;Aged;F;Omnivorous;LOC2;25.88
+HBY;60;Aged;F;Omnivorous;LOC2;26.14
+HBZ;50;Aged;F;Omnivorous;LOC2;25.47
+HCA;50;Aged;F;Omnivorous;LOC2;32.04
+HCB;50;Aged;F;Omnivorous;LOC2;21. Jan
+HCD;56;Aged;M;Omnivorous;LOC2;24.38
+HCF;58;Aged;M;Omnivorous;LOC2;25.51
+HCH;53;Aged;M;Omnivorous;LOC2;25.86
+HCI;53;Aged;M;Omnivorous;LOC2;23.38
+HCJ;60;Aged;M;Omnivorous;LOC2;22.91
+HCK;53;Aged;M;Omnivorous;LOC2;23.83
+HCW;21;Young;M;Omnivorous;LOC2;22.18
+HCY;53;Aged;F;Omnivorous;LOC2;26. Aug
+HCZ;25;Young;M;Omnivorous;LOC2;20.61
+HDB;50;Aged;F;Omnivorous;LOC2;25. Jan
+HDC;27;Adult;F;Omnivorous;LOC2;20.42
+HDD;30;Adult;M;Omnivorous;LOC2;22.33
+HDE;30;Adult;F;Omnivorous;LOC2;22.43
+HDF;58;Aged;F;Omnivorous;LOC2;25. Jul
