@@ -27,7 +27,7 @@ ERR1915100,-7.411689,-31.235842,Canis familiaris,Canis familiaris
 ERR1913847,-9.634914,-13.168666,Canis familiaris,Canis familiaris
 SRR7658625,1.0751952,16.901844,Madagascar,Non Westernized Human
 ERR1914215,-12.357733,-10.667553,Canis familiaris,Canis familiaris
-SRR5898956,-14.256739,-0.49703,Indian Microbiome,Westernized human
+SRR5898956,-14.256739,-0.49703,Indian Microbiome,Indian Urban
 ERR1915186,-5.129722,-11.316485,Canis familiaris,Canis familiaris
 SRR7658609,7.6853952,21.76302,Madagascar,Non Westernized Human
 ERR1914349,5.6299686,-15.500472,Canis familiaris,Canis familiaris
@@ -47,7 +47,7 @@ SRR646438,-6.600817,-2.2459648,Human Microbiome Project,Westernized human
 SRR7658631,2.5056098,18.952759,Madagascar,Non Westernized Human
 ERR1915012,0.890313,-19.802528,Canis familiaris,Canis familiaris
 SRR1761707,4.81322,3.9126496,Matses,Non Westernized Human
-SRR5898944,-17.301086,-0.78674716,Indian Microbiome,Westernized human
+SRR5898944,-17.301086,-0.78674716,Indian Microbiome,Indian Rural
 ERR1913815,16.593576,21.959946,Canis familiaris,Canis familiaris
 SRR1179053,-21.051086,-2.5631,Human Microbiome Project,Westernized human
 SRR2187423,-2.0299459,2.6737123,Fiji Gut microbiome,Westernized human
@@ -143,7 +143,7 @@ ERR1913830,-10.114327,-13.107407,Canis familiaris,Canis familiaris
 SRR7658635,9.87538,25.241426,Madagascar,Non Westernized Human
 ERR1915971,-2.834525,-22.142523,Canis familiaris,Canis familiaris
 SRR1761673,0.7495855,14.71856,Tunapuco,Non Westernized Human
-SRR5899013,15.220534,26.485218,Indian Microbiome,Westernized human
+SRR5899013,15.220534,26.485218,Indian Microbiome,Indian Rural
 SRR7658660,10.728386,17.759054,Madagascar,Non Westernized Human
 ERR1913555,-8.563323,-22.865034,Canis familiaris,Canis familiaris
 SRR2188726,14.241376,11.198577,Fiji Gut microbiome,Westernized human
@@ -154,7 +154,7 @@ SRR1761718,3.2752137,7.6779366,Matses,Non Westernized Human
 SRR7658650,12.966251,26.336506,Madagascar,Non Westernized Human
 ERR1914750,-9.947509,-11.651878,Canis familiaris,Canis familiaris
 SRR7658649,15.024505,20.84437,Madagascar,Non Westernized Human
-SRR5898947,17.11484,25.892803,Indian Microbiome,Westernized human
+SRR5898947,17.11484,25.892803,Indian Microbiome,Indian Urban
 mgm4477803_3,22.498636,13.197051,Soil,Soil
 ERR1915320,-7.1387897,-11.454088,Canis familiaris,Canis familiaris
 ERR1915204,7.1724386,-9.951402,Canis familiaris,Canis familiaris
@@ -183,12 +183,12 @@ SRR1175013,-18.862778,-1.2833076,Human Microbiome Project,Westernized human
 SRR2195842,-0.35564423,18.639605,Fiji Gut microbiome,Westernized human
 SRR1761669,4.1553135,11.471624,Tunapuco,Non Westernized Human
 SRR1761699,6.4736104,7.0876,Matses,Non Westernized Human
-SRR5899002,13.539809,25.361637,Indian Microbiome,Westernized human
+SRR5899002,13.539809,25.361637,Indian Microbiome,Indian Urban
 ERR1914439,-3.813597,-22.051847,Canis familiaris,Canis familiaris
 SRR7658582,-0.36325395,7.9442854,Madagascar,Non Westernized Human
 ERR1914302,5.0635257,-16.779251,Canis familiaris,Canis familiaris
-SRR5898921,12.496855,11.012681,Indian Microbiome,Westernized human
-SRR5898969,-13.062682,-0.6893598,Indian Microbiome,Westernized human
+SRR5898921,12.496855,11.012681,Indian Microbiome,Indian Urban
+SRR5898969,-13.062682,-0.6893598,Indian Microbiome,Indian Urban
 SRR7658670,12.121462,26.207132,Madagascar,Non Westernized Human
 SRR7658642,6.6644726,13.966899,Madagascar,Non Westernized Human
 SRR1761705,-3.243648,18.743532,Matses,Non Westernized Human
@@ -233,9 +233,9 @@ SRR2189052,14.485495,11.415525,Fiji Gut microbiome,Westernized human
 SRR1761715,5.724006,6.184864,Matses,Non Westernized Human
 ERR1914611,-3.0948098,-19.539988,Canis familiaris,Canis familiaris
 SRR7658682,14.738802,21.970407,Madagascar,Non Westernized Human
-SRR5898971,15.191089,25.582052,Indian Microbiome,Westernized human
+SRR5898971,15.191089,25.582052,Indian Microbiome,Indian Urban
 ERR1915231,-5.9697056,-14.445781,Canis familiaris,Canis familiaris
-SRR5898992,-12.638897,-0.12470995,Indian Microbiome,Westernized human
+SRR5898992,-12.638897,-0.12470995,Indian Microbiome,Indian Rural
 ERR1915410,-6.7436466,-20.127932,Canis familiaris,Canis familiaris
 ERR1914085,-13.695782,-13.6168995,Canis familiaris,Canis familiaris
 SRR7658604,7.2750316,19.638762,Madagascar,Non Westernized Human
@@ -263,7 +263,7 @@ ERR1915612,-2.979969,-18.856167,Canis familiaris,Canis familiaris
 SRR7658674,6.7330394,0.6935813,Madagascar,Non Westernized Human
 SRR7658669,2.7323337,1.5602793,Madagascar,Non Westernized Human
 SRR7658641,13.656724,17.49914,Madagascar,Non Westernized Human
-SRR5898984,-11.7259,0.42300332,Indian Microbiome,Westernized human
+SRR5898984,-11.7259,0.42300332,Indian Microbiome,Indian Urban
 SRR2251641,-14.279553,-3.6093297,Fiji Gut microbiome,Westernized human
 SRR7658633,11.073952,24.199774,Madagascar,Non Westernized Human
 SRR7658586,1.7763871,0.29965734,Madagascar,Non Westernized Human
@@ -280,7 +280,7 @@ SRR1930142,4.4060297,8.784983,Hadza,Non Westernized Human
 ERR1913392,4.1845093,-20.540773,Canis familiaris,Canis familiaris
 SRR1930176,-2.4853795,16.115257,Hadza,Non Westernized Human
 SRR1761719,-1.3785346,16.502804,Matses,Non Westernized Human
-SRR5898978,16.45278,25.764996,Indian Microbiome,Westernized human
+SRR5898978,16.45278,25.764996,Indian Microbiome,Indian Urban
 SRR7658671,2.2898328,0.9930431,Madagascar,Non Westernized Human
 SRR7658581,2.9343357,2.6578124,Madagascar,Non Westernized Human
 SRR062447,-17.733807,-0.05313326,Human Microbiome Project,Westernized human
@@ -293,7 +293,7 @@ ERR1939165,24.734383,14.219006,Soil,Soil
 SRR2195742,0.28542474,18.491043,Fiji Gut microbiome,Westernized human
 SRR1761701,11.248433,11.857367,Matses,Non Westernized Human
 SRR1931173,-4.4668293,7.8321886,Hadza,Non Westernized Human
-SRR5898994,-9.537284,5.208019,Indian Microbiome,Westernized human
+SRR5898994,-9.537284,5.208019,Indian Microbiome,Indian Rural
 ERR1914082,-13.685797,-13.620788,Canis familiaris,Canis familiaris
 ERR1915582,-5.53701,-30.163176,Canis familiaris,Canis familiaris
 SRR7658589,1.6561296,2.3884113,Madagascar,Non Westernized Human
@@ -301,10 +301,10 @@ SRR1929574,0.35408682,7.495453,Hadza,Non Westernized Human
 ERR1916193,1.3951257,-22.745552,Canis familiaris,Canis familiaris
 SRR7658666,3.8469496,5.626909,Madagascar,Non Westernized Human
 ERR1914424,-4.619895,-22.178162,Canis familiaris,Canis familiaris
-SRR5898929,-13.279548,2.0447721,Indian Microbiome,Westernized human
+SRR5898929,-13.279548,2.0447721,Indian Microbiome,Indian Rural
 mgm4477902_3,24.495317,13.168975,Soil,Soil
 SRR063469,-18.25562,-2.2178848,Human Microbiome Project,Westernized human
-SRR5898923,-12.462323,1.2543747,Indian Microbiome,Westernized human
+SRR5898923,-12.462323,1.2543747,Indian Microbiome,Indian Urban
 ERR1913400,4.137964,-20.575104,Canis familiaris,Canis familiaris
 SRR1761672,2.6861537,11.565432,Tunapuco,Non Westernized Human
 SRR2199461,0.06996407,18.128466,Fiji Gut microbiome,Westernized human
