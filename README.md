@@ -49,6 +49,16 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
 
     ![](figures/figure7-8/results/figure7B.png)
 
-- [Figure 8](figure7-8): coproid source prediction
+- [Figure 8](figures/figure7-8): coproid source prediction
 
     ![](figures/figure7-8/results/figure8.png)
+    
+- [Figure S1](figures/figureS1): Damage plot
+
+    - A: Non UDG Libraries
+    
+    ![](figures/figureS1/results/non_udg.png)
+    
+    - B: UDG-half Libraries
+
+    ![](figures/figureS1/results/udg_half.png)
