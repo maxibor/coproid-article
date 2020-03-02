@@ -3,8 +3,8 @@
 Analysis scripts for coproID article.
 
 The notebooks used to generate the figures are listed below.  
-Use the [conda environment file](environment.yaml) to reproduce the runtime environment:  
-`conda env create -f environment.yaml`
+Use the [conda environment file](environment.yml) to reproduce the runtime environment:  
+`conda env create -f environment.yml`
 
 
 ## Figures
@@ -53,12 +53,14 @@ Use the [conda environment file](environment.yaml) to reproduce the runtime envi
 
     ![](figures/figure7-8/results/figure8.png)
     
-- [Figure S1](figures/figureS1): Damage plot
+- [Figure S1](figures/figureS1): Damage plot for Non UDG Libraries
 
-    - A: Non UDG Libraries
-    
     ![](figures/figureS1/results/non_udg.png)
     
-    - B: UDG-half Libraries
+- [Figure S2](figures/figureS2): Damage plot for UDG-half Libraries
 
     ![](figures/figureS1/results/udg_half.png)
+
+- [Figure S3](figures/figureS3): Archaelogical sites distribution map
+
+    ![](figures/figureS3/figureS3.png)
