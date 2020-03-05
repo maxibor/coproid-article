@@ -38,20 +38,20 @@ Use the [conda environment file](environment.yml) to reproduce the runtime envir
 - [Figure 6](figures/figure6): Sourcepredict prediction of archaelogical samples.
 
     ![](figures/figure6/results/figure6.png)
+    
+- [Figure 7](figures/figure7-8): coproid source prediction
 
-- [Figure 7](figures/figure7-8): coproID source prediction elements
+    ![](figures/figure7-8/results/figure7.png)
+
+- [Figure 8](figures/figure7-8): coproID source prediction elements
     
     - A: For humans
         
-    ![](figures/figure7-8/results/figure7A.png)
+    ![](figures/figure7-8/results/figure8A.png)
 
     - B: For canids
 
-    ![](figures/figure7-8/results/figure7B.png)
-
-- [Figure 8](figures/figure7-8): coproid source prediction
-
-    ![](figures/figure7-8/results/figure8.png)
+    ![](figures/figure7-8/results/figure8B.png)
     
 - [Figure S1](figures/figureS1): Damage plot for Non UDG Libraries
 
